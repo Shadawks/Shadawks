@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/68/31/45/6831454cf213ed7ffa541fe666fa9cf8.gif" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/0c/f2/a5/0cf2a59e6352b20424cdb47b4a4e127a.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
