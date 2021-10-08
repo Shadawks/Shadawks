@@ -1,4 +1,4 @@
-### 👋 &nbsp;Hello friend.
+## 👋 &nbsp;Hello friend.
 
 <img alt="Night Coding" src="https://i.pinimg.com/originals/0c/f2/a5/0cf2a59e6352b20424cdb47b4a4e127a.gif" align="right"/>
 
@@ -21,7 +21,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ### ⚙️ &nbsp;GitHub Analytics
-
+<br>
 <p align="center">
 <a href="https://github.com/Shadawks">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shadawks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
