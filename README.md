@@ -9,9 +9,9 @@
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Strapi](https://img.shields.io/badge/strapi-05122A.svg?flat&logo=strapi&logoColor=9a4bff)&nbsp;
+![Strapi](https://img.shields.io/badge/Strapi-05122A.svg?flat&logo=strapi&logoColor=9a4bff)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
-![Vuetify](https://img.shields.io/badge/Vuetify-05122A?style=flat&logo=vuetify)&nbsp;
+![Vuetify](https://img.shields.io/badge/Vuetify-05122A?style=flat&logo=vuetify&logoColor=2196f3)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -22,6 +22,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+
 ### ⚙️ &nbsp;GitHub Analytics
 <br>
 <p align="center">
