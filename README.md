@@ -1,5 +1,5 @@
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/5f/08/58/5f085809f2b711643e4eb4974cc03c0e.gif" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/5e/d4/04/5ed404b97ad95cae88a20b322faf2761.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -9,7 +9,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
+![Vue.js](https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
