@@ -9,7 +9,7 @@
 ![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Strapi](https://img.shields.io/badge/strapi-05122A?style=flat&logo=strapi?logoColor=9A4BFF)&nbsp;
+![Strapi](https://img.shields.io/badge/strapi-05122A.svg?flat&logo=strapi&logoColor=9a4bff)&nbsp;
 ![Vue.js](https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![Vuetify](https://img.shields.io/badge/Vuetify-05122A?style=flat&logo=vuetify)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
