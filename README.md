@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://github.com/Shadawks">
-  <img height="180em" style="margin-right:50px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shadawks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" style="padding:50px;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shadawks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shadawks&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
