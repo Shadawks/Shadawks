@@ -32,11 +32,4 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Contact Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/nathan-leibel-16a4881a1/"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nathan.leibel@epitech.eu"><img src="https://img.shields.io/badge/-Mail-05122A?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
 -----
