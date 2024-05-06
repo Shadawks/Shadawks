@@ -59,21 +59,26 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=adonis" height="35" alt="adonisjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="35" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="35" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="35" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="35" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vuetify" height="35" alt="bootstrap logo"  />
+
 </div>
 
 ###
