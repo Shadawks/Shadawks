@@ -1,35 +1,90 @@
-# 🪐 &nbsp;Hello, friend. ☄️
+<div align="center">
+  <img height="225" src="https://64.media.tumblr.com/4be70da7d1cbe48f25d918eb7ca03bd7/826bf0fa9cf45cea-07/s1280x1920/ea03e12cc02c03bef0482e75149556105036ebd0.gif"  />
+</div>
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/0c/f2/a5/0cf2a59e6352b20424cdb47b4a4e127a.gif" align="right"/>
+###
 
-### 🛠 &nbsp;Tech Stack
+<h1 align="center">Hello friend. 🪐</h1>
 
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Strapi](https://img.shields.io/badge/Strapi-05122A.svg?flat&logo=strapi&logoColor=9a4bff)&nbsp;
-![Vue.js](https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vue.js&logoColor=4FC08D)&nbsp;
-![Vuetify](https://img.shields.io/badge/Vuetify-05122A?style=flat&logo=vuetify&logoColor=2196f3)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
+###
 
-### ⚙️ &nbsp;GitHub Analytics
-<br>
-<p align="center">
-<a href="https://github.com/Shadawks">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shadawks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shadawks&layout=compact&langs_count=8&theme=radical"/>
-</a>
-</p>
+<h3 align="left">👩‍💻~$ whoami</h3>
 
------
+###
+
+<p align="left">Hello, I'm Nathan! 👋<br><br>• 🔭 I'm currently working as a Web Developer, building and designing responsive websites and applications.<br>• 🌐 I have a strong passion for cybersecurity and enjoy learning about new trends and technologies in the field.</p>
+
+###
+
+<h3 align="left">🛠 Language & Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥  Frameworks</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=adonis" height="35" alt="adonisjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="35" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="35" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs" height="35" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="35" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
+</div>
+
+###
+
+<h3 align="left">⚙️  Github Analytics</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadawks&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shadawks&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
